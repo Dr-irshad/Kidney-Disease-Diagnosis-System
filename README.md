@@ -1,4 +1,4 @@
-# Kidney Disease Diagnosis System (Customer: Wisio, Hong Kong)
+# Kidney Disease Diagnosis System 
 
 ## Overview
 
