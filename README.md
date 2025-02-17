@@ -1,8 +1,8 @@
-# Kidney Disease Diagnosis System 
+# NephroScan: AI-Powered Kidney Disease Diagnosis
 
 ## Overview
 
-The **Kidney Disease Diagnosis System** is an AI-powered solution developed to assist healthcare professionals in diagnosing kidney-related diseases with high accuracy. The system uses computer vision algorithms to automate the analysis of medical imaging modalities, such as **ultrasounds**, **CT scans**, and **MRIs**, to detect abnormalities like **tumors**, **cysts**, and **stones**. This real-time, automated analysis supports early disease detection, enhances monitoring, and helps in making informed treatment decisions.
+The **NephroScan** is an AI-powered solution developed to assist healthcare professionals in diagnosing kidney-related diseases with high accuracy. The system uses computer vision algorithms to automate the analysis of medical imaging modalities, such as **ultrasounds**, **CT scans**, and **MRIs**, to detect abnormalities like **tumors**, **cysts**, and **stones**. This real-time, automated analysis supports early disease detection, enhances monitoring, and helps in making informed treatment decisions.
 
 ## Features
 
