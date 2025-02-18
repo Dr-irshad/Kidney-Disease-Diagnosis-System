@@ -78,7 +78,7 @@ The system uses **YOLO** (You Only Look Once) for segmentation, and you will nee
 
        Example (for local path):
        ```python
-       weights_path = "/path/to/your/yolov3.weights"
+       weights_path = "/path/to/your/yolov8.weights"
 
 5. **Run the System**
 
