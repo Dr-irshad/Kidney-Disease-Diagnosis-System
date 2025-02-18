@@ -69,9 +69,9 @@ The system uses **YOLO** (You Only Look Once) for segmentation, and you will nee
      
   2. **Direct link to download YOLO weights**:
      - You can directly download the weights from the following link:
-       - [YOLOv4 weights (darknet)](https://pjreddie.com/media/files/yolov3.weights)
+       - [YOLOv8 weights (darknet)](https://pjreddie.com/media/files/yolov8.weights)
      
-     After downloading, place the weights file (`yolov3.weights`) in the directory where your model code expects it. This can be a custom directory you create within your project.
+     After downloading, place the weights file (`yolov8.weights`) in the directory where your model code expects it. This can be a custom directory you create within your project.
   
   3. **Using a Local Path:**
      - If you already have the weights file saved locally, you can specify the path to the weights in the configuration file or directly in the system's script when running the model.
