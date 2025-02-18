@@ -41,8 +41,8 @@ Before setting up the system, ensure you have the following installed:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-repo/kidney-disease-diagnosis.git
-   cd kidney-disease-diagnosis
+   git clone https://github.com/Dr-irshad/NephroScan-AI-Powered-Kidney-Disease-Diagnosis.git
+   cd NephroScan-AI-Powered-Kidney-Disease-Diagnosis
 
 2. **Create a virtual environment (optional but recommended)**
 
